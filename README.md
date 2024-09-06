@@ -1,2 +1,2 @@
 # Retinoblastoma_Kenya
-A Repository with Code, Data and Results of analysis in the Velux Retinoblastoma Project
+A repository containing the code, data, and analysis results for the Velux Retinoblastoma Project.  
